@@ -4,7 +4,7 @@
 
 **Today's Progress**: Learned a little about using objects and constructors in JavaScript.
 
-**Thoughts:** I am slowly diving into the world of JavaScipt. I hope to get the basics well so I can continue learning with good a foundation.
+**Thoughts:** I am slowly diving into the world of JavaScript. I hope to get the basics well, so I can continue learning with a good foundation.
 
 **Link to work:** [Rabbits & Constructors](https://codepen.io/borowyalan/pen/VJyBxr?editors=1011)
 
