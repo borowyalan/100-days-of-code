@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 3: June 30th, 2019
+
+**Today's Progress**: I've had some fun with React components (+ conditional rendering) and [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API). Researched more the JavaScript modules topic.
+
+**Thoughts:**: Planning is a crucial part of writing software. When I get the Geolocation right I will try to fetch the data with [Axios](https://github.com/borowyalan/weather-app).
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** [Primer to JS modules](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+
+---
+
 ### Day 2: June 29th, 2019
 
 **Today's Progress**: I've revised the modern JavaScript features used extensively in React Application.
