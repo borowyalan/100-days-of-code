@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: July 1st, 2019
+
+**Today's Progress**: Finished the Geolocation component which now displays lon and lat correctly.
+
+**Thoughts:**: Working in the morning when you are fresh is indeed a good idea.
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** 
+
+---
+
 ### Day 3: June 30th, 2019
 
 **Today's Progress**: I've had some fun with React components (+ conditional rendering) and [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API). Researched more the JavaScript modules topic.
