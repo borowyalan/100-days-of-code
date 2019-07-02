@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: July 2nd, 2019
+
+**Today's Progress**: Learned about & added the [Reverse Geocoding](https://developers.google.com/maps/documentation/javascript/examples/geocoding-reverse) to app using [Axios](https://github.com/axios/axios).
+
+**Thoughts:**: Figuring things out is sometimes a struggle, but it's satisfying when you can easily reproduce the effects afterwards and the code comes to the simple and structured form. 🎈
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** [Using Axios with React to Make API Requests](https://upmostly.com/tutorials/using-axios-with-react-api-requests)
+
+---
+
 ### Day 4: July 1st, 2019
 
 **Today's Progress**: Finished the Geolocation component which now displays lon and lat correctly.
