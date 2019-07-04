@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: July 3rd, 2019
+
+**Today's Progress**: Added a placeholder in case the [GeolocationAPI](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) fails using [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) in React. Added a mechanism allowing rendering the localization properly.
+
+**Thoughts:**: The Geolocation component wasn't rendering the city/country format correctly due to hardcoded values fetched from dynamic API. The lack of consistency in your app is a bug, even when at a glance it looks fine. 
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** [Reverse Geocoding docs](https://developers.google.com/maps/documentation/geocoding/intro#ReverseGeocoding)
+
+---
+
 ### Day 5: July 2nd, 2019
 
 **Today's Progress**: Learned about & added the [Reverse Geocoding](https://developers.google.com/maps/documentation/javascript/examples/geocoding-reverse) to app using [Axios](https://github.com/axios/axios).
