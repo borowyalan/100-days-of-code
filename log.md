@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log
 
+### Day 9: July 7th, 2019
+
+**Today's Progress**: Successfully implemented GeolocationContext to provide the values in both nodes of the App. Extracted the API call for reverseGeocoding to a helper file as a promise.
+
+**Thoughts:**: The more you learn the more you see you could use someone experienced to tell you if the design/implementation decisions you've made are right. Like a mentor 🎓
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** [Using Context API in React (Hooks and Classes)](https://www.taniarascia.com/using-context-api-in-react/)
+
+---
+
+### Day 8: July 5rd, 2019
+
+**Today's Progress**: Added GeolocationProvider components allowing two panes to use the geolocation. Done using [Context API](https://reactjs.org/docs/context.html).
+
+**Thoughts:**: 
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** [Sharing state using React's Context API](https://dev.to/sunnysingh/sharing-state-using-reacts-context-api-3623)
+
+---
+
+### Day 7: July 4rd, 2019
+
+**Today's Progress**: Restructured the app to Split Pane View using [styled-components](https://github.com/styled-components/styled-components). 
+
+**Thoughts:**: Deciding about technology used in simple projects doesn't matter as long as it allows you to get the job done and explore the solution a little. 
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** [Styled components, the styling library for your React apps you don’t want to be without](https://itnext.io/styled-components-the-styling-library-for-your-react-apps-you-dont-want-to-be-without-169305ccb9e7)
+
+---
+
 ### Day 6: July 3rd, 2019
 
 **Today's Progress**: Added a placeholder in case the [GeolocationAPI](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) fails using [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) in React. Added a mechanism allowing rendering the localization properly.
