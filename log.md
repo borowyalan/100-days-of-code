@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 11: July 17th, 2019
+
+**Today's Progress:**  Created a script that allows me to use keyboard shortcuts on site [prawojazdy360.pl](https://www.prawo-jazdy-360.pl/). Learned how to use [User Script Managers](https://www.tampermonkey.net/).
+
+**Thoughts:** Tinkering with the web is THE new tinkering.
+
+**Link to work:** [prawojazdy360](https://github.com/borowyalan/prawojazdy360)
+
+**Resources:** 
+
+- [KeyCodes info](https://keycode.info/) by [Wes Bos](https://wesbos.com/)
+
+- [You might not need jQuery](http://youmightnotneedjquery.com/) by [Zack Bloom](https://twitter.com/zackbloom) & [Adam Schwartz](https://twitter.com/adamfschwartz)
+
+---
+
 ### Day 10: July 16th, 2019
 
 **Today's Progress:**  Created a Todo List app using React Hooks (using them for the first time!). You can add & remove tasks so far. 
