@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 12: July 20th, 2019
+
+**Today's Progress:**  Made my [Weather App](https://github.com/borowyalan/weather-app) responsive using [react-responsive](https://github.com/contra/react-responsive). Also refactored some styled-components styles. Played with effective API's calling ([OpenWeather API](https://openweathermap.org/api)) and displaying its results.
+
+**Thoughts:** Pomodoro ftw. Coding 4 hours in one sitting feels satisfying, but doesn't seem productive.
+
+**Link to work:** [React Weather App](https://github.com/borowyalan/weather-app)
+
+**Resources:** 
+- [styled-component's docs](https://www.styled-components.com/docs)    
+
+
+---
+
 ### Day 11: July 17th, 2019
 
 **Today's Progress:**  Created a script that allows me to use keyboard shortcuts on site [prawojazdy360.pl](https://www.prawo-jazdy-360.pl/). Learned how to use [User Script Managers](https://www.tampermonkey.net/).
