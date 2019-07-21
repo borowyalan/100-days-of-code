@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 13: July 21th, 2019
+
+**Today's Progress:**  Made GraphQL-Demo where I learned how to:
+- use Apollo
+- fetch data & display it using GraphQL
+
+**Thoughts:** Harder than using stuff is deciding which to use in the first place.
+
+**Link to work:** [GraphQL-Demo](https://github.com/borowyalan/graphql-demo)
+
+**Resources:** 
+- [flavicopes's article on GraphQL](https://flaviocopes.com/apollo/)    
+
+
+---
+
 ### Day 12: July 20th, 2019
 
 **Today's Progress:**  Made my [Weather App](https://github.com/borowyalan/weather-app) responsive using [react-responsive](https://github.com/contra/react-responsive). Also refactored some styled-components styles. Played with effective API's calling ([OpenWeather API](https://openweathermap.org/api)) and displaying its results.
